@@ -1,1 +1,1 @@
-# Multivaria_Calculus_Project
+# Multivariate_Calculus_Project
