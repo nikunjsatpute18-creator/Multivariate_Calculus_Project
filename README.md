@@ -1,1 +1,0 @@
-# Multivariate_Calculus_Project
